@@ -17,6 +17,6 @@ This project is a simple web-based application that converts HEIF images to JPEG
 Feel free to fork this repository, submit issues, or create pull requests if you'd like to contribute.
 
 <h2>License</h2>
-<h3>This project is licensed under the MIT License.</h3>
+<h5>This project is licensed under the MIT License.</h5>
 
 
